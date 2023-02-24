@@ -12,4 +12,5 @@ For this project, I was interested in using the data to understand the following
 5. average household income by location.
 
 ## File Description
-sdf
+The files used in this projct have been group as follows:
+1. US_Regional_Sales_Data.xlsx - contains the store .xlsx files.
