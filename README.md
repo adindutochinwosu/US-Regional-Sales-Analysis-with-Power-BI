@@ -1,4 +1,4 @@
-## US-Regional-Sales-Analysis-with-Power-BI
+## Regional-Sales-Analysis-with-Power-BI
 An analysis of regional sales data in the United State.
 
 
